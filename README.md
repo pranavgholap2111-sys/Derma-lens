@@ -5,7 +5,7 @@ DermaLens is an intelligent multimodal AI scanner that inspects skincare, makeup
 ---
 
 ## 🚀 Live Demo
-Try the deployed application here: **[DermaLens on Streamlit Cloud](https://your-app-url.streamlit.app)**
+Try the deployed application here: **[DermaLens on Streamlit Cloud]([https://your-app-url.streamlit.app](https://derma-lens-6oub28wua3dhkteuay3xy6.streamlit.app/))**
 
 ---
 
@@ -14,7 +14,7 @@ Try the deployed application here: **[DermaLens on Streamlit Cloud](https://your
 To receive your safety summaries directly on your phone, you need your unique numeric **Telegram Chat ID** and must grant the bot permission to message you.
 
 ### Step 1: Start the Telegram Bot
-1. Open Telegram and search for the bot: **`@<YOUR_BOT_USERNAME>`** (or open `https://t.me/<YOUR_BOT_USERNAME>`).
+1. Open Telegram and search for the bot: **`@DermaLens_bot>`** (or open `https://t.me/DermaLens_bot`).
 2. Tap **Start** (or send `/start` as a text message).
 3. Send any simple message (e.g., `hi`).  
    *(Telegram prevents bots from messaging users until the user starts the conversation first).*
@@ -45,5 +45,5 @@ To receive your safety summaries directly on your phone, you need your unique nu
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/](https://github.com/)<YOUR_GITHUB_USERNAME>/dermalens-ai.git
+git clone [https://github.com/](https://github.com/)<pranavgholap2111-sys/Derma-lens.git
 cd dermalens-ai
